@@ -1,9 +1,3 @@
-## Name: Rohit Karnawat
-
------------------------------------------------------------------------
------------------------------------------------------------------------
-
-
 Following are the commands and the instructions to run ANT on the project.
 #### Note: build.xml is present in studentCoursesBackup/src folder.
 
